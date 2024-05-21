@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Meteoro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Meteoro\ here.\r\n\ Esta\ clase\ representa\ los\ meteoritos\ que\ se\ mueven\ horizontalmente\ por\ el\ mundo.\r\n\ @author\ Tu\ nombre\r\n\ @version\ 1.0\ (fecha)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Meteoro\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Este\ m\u00E9todo\ se\ llama\ autom\u00E1ticamente\ cuando\ se\ ejecuta\ el\ juego.\r\n
+comment2.params=speed
+comment2.target=void\ setSpeed(int)
+comment2.text=\r\n\ Establece\ la\ velocidad\ del\ meteoro.\r\n\ @param\ speed\ La\ velocidad\ a\ establecer.\r\n
+numComments=3
